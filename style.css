@@ -49,3 +49,11 @@ a:hover {
     text-underline-offset: 1rem;
     text-decoration-line: rgb(181, 181, 181);
 }
+
+.logo {
+    font-size: 2rem;
+}
+
+.logo:hover {
+    cursor: default;
+}
