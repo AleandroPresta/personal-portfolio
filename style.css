@@ -235,23 +235,15 @@ section {
   cursor: pointer;
 }
 
-.btn-color-1, 
+.btn-color-1:hover,
 .btn-color-2:hover {
-  background: rgb(53, 53, 53);
-  color: white;
-}
-
-.btn-color-1:hover {
   background: rgb(0, 0, 0);
   color: white;
 }
 
-.btn-color-2 {
-  background: none;
-}
-
-.btn-color-2:hover {
-  border: rgb(255, 255, 255) 0.1rem solid;
+.btn-color-1 {
+  background: rgb(53, 53, 53);
+  color: white;
 }
 
 .btn-container {
