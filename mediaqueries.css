@@ -72,5 +72,10 @@
         flex-wrap: wrap;
     }
 
+    .nav-links {
+        flex-direction: column;
+        gap: 0.5rem;
+        text-align: center;
+    }
 
 }
