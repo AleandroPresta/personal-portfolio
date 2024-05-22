@@ -46,6 +46,10 @@
     .about-containers {
         margin-top: 0;
     }
+
+    .article {
+        justify-content: start;
+    }
 }
 
 @media screen and (max-width: 600px) {
